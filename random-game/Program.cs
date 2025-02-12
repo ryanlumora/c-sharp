@@ -5,10 +5,12 @@ Good Luck!
 
 void main(){
     Random random = new Random();
-    int number = random.Next(99) + 1;
+    int number = random.Next(1, 101);
     bool correctAnswer = false;
 
-    Console.WriteLine("Adivinhe O Número !!");
+    Console.WriteLine(@"
+    
+    ");
 
     while(correctAnswer != true){
     int guess = getATry();
