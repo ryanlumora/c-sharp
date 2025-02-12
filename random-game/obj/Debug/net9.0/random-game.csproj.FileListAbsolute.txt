@@ -1,0 +1,15 @@
+C:\Users\Windows\Projects\c-sharp\random-game\bin\Debug\net9.0\random-game.exe
+C:\Users\Windows\Projects\c-sharp\random-game\bin\Debug\net9.0\random-game.deps.json
+C:\Users\Windows\Projects\c-sharp\random-game\bin\Debug\net9.0\random-game.runtimeconfig.json
+C:\Users\Windows\Projects\c-sharp\random-game\bin\Debug\net9.0\random-game.dll
+C:\Users\Windows\Projects\c-sharp\random-game\bin\Debug\net9.0\random-game.pdb
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\random-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\random-game.AssemblyInfoInputs.cache
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\random-game.AssemblyInfo.cs
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\random-game.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\random-game.sourcelink.json
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\random-game.dll
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\refint\random-game.dll
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\random-game.pdb
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\random-game.genruntimeconfig.cache
+C:\Users\Windows\Projects\c-sharp\random-game\obj\Debug\net9.0\ref\random-game.dll
