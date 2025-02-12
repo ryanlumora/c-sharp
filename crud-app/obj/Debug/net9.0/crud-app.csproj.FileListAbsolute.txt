@@ -1,0 +1,15 @@
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\bin\Debug\net9.0\crud-app.exe
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\bin\Debug\net9.0\crud-app.deps.json
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\bin\Debug\net9.0\crud-app.runtimeconfig.json
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\bin\Debug\net9.0\crud-app.dll
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\bin\Debug\net9.0\crud-app.pdb
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\crud-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\crud-app.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\crud-app.AssemblyInfo.cs
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\crud-app.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\crud-app.sourcelink.json
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\crud-app.dll
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\refint\crud-app.dll
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\crud-app.pdb
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\crud-app.genruntimeconfig.cache
+C:\Users\Windows\Documents\projects\c-sharp\crud-app\obj\Debug\net9.0\ref\crud-app.dll
